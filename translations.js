@@ -324,23 +324,7 @@ const PRODUCTS = {
         { label: { en: "Juice",    uz: "Sharbat",  ru: "Сок"     }, value: "+"       }
       ]
     },
-    {
-      image: "img/Monster-Bad-Apple-bestellen-bei-Five-Star-Trading-Holland.png",
-      name:  { en: "Monster Energy Juiced Bad Apple", uz: "Monster Energy Juiced Bad Apple", ru: "Monster Energy Juiced Bad Apple" },
-      cat:   { en: "Monster", uz: "Monster", ru: "Monster" },
-      short: { en: "Apple juice / 0.5 l", uz: "Olma sharbati / 0.5 l", ru: "Яблочный сок / 0.5 л" },
-      desc:  {
-        en: "Don't let the name fool you — Bad Apple is dangerously good. Crisp apple juice fused with Monster's energy complex for a sweet and sharp combination that's refreshing, bold, and unmistakably Monster.",
-        uz: "Ismiga aldanmang — Bad Apple xavfli darajada yaxshi. Crisp olma sharbati Monster'ning energiya kompleksi bilan birlashtirilgan — shirin va o'tkir, yangilovchi va jasur.",
-        ru: "Не дайте названию обмануть вас — Bad Apple опасно хорош. Хрустящий яблочный сок слит с энергетическим комплексом Monster для сладкой и острой комбинации, которая освежает, смелая и неизменно Monster."
-      },
-      specs: [
-        { label: { en: "Volume",   uz: "Hajm",     ru: "Объём"   }, value: "500 ml"  },
-        { label: { en: "Calories", uz: "Kaloriya", ru: "Калории" }, value: "52 kcal" },
-        { label: { en: "Caffeine", uz: "Kafein",   ru: "Кофеин"  }, value: "160 mg"  },
-        { label: { en: "Juice",    uz: "Sharbat",  ru: "Сок"     }, value: "+"       }
-      ]
-    },
+    
     {
       image: "img/Monster-Absolutely-Zero-SA.jpg",
       name:  { en: "Monster Energy Absolutely Zero", uz: "Monster Energy Absolutely Zero", ru: "Monster Energy Absolutely Zero" },

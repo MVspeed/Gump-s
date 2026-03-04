@@ -20,7 +20,7 @@ const TRANSLATIONS = {
     nav_energy:           "Энергетики",
     nav_protein:          "Протеиновые концентраты",
     cat_count_water:      "7 видов",
-    cat_count_energy:     "14 видов",
+    cat_count_energy:     "12 видов",
     cat_count_protein:    "9 видов",
     about_title:          "О нас",
     about_intro:          "Мы — торговая компания, специализирующаяся на поставках современных функциональных напитков и высококачественных белковых ингредиентов.",

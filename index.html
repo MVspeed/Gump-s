@@ -261,16 +261,18 @@
       width: 100%;
       aspect-ratio: 16 / 7;
       overflow: hidden;
-      background: var(--light);
+      background: #fffeff; /* цвет заливки по бокам */
       display: flex;
       align-items: center;
       justify-content: center;
-    }
-    .modal-img-wrap img {
-      width: 100%; height: 100%;
-      object-fit: cover;
+  }
+
+  .modal-img-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain; /* чтобы фото полностью помещалось */
       display: block;
-    }
+  }
 
     .modal-body { padding: 30px 34px 34px; }
 
@@ -332,7 +334,6 @@
       font-size: 18px;
       color: var(--fg);
     }
-
     /* ── ABOUT ── */
     #about {
       background: var(--grey);
